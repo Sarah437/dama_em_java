@@ -28,6 +28,9 @@ public class Posicao {
  this.y = y;
  }
 }
+
+
+
 // segunda classe 
 
 public class Peca {
@@ -51,6 +54,8 @@ public class Peca {
  this.posicao = posicao;
  }
 }
+
+
 
 public class Tabuleiro {
  // Criando o Tabuleiro
